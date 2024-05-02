@@ -1,4 +1,4 @@
-import type { VideoDetails, VideoFormat } from './types/formats';
+import type { VideoDetails, VideoFormat } from './types/formats.js';
 
 const BASE_ENDPOINT = "https://www.youtube-nocookie.com/youtubei/v1/player?prettyPrint=false";
 

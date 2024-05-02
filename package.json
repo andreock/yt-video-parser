@@ -1,6 +1,6 @@
 {
   "name": "yt-video-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse Youtube video infomation",
   "main": "index.js",
   "scripts": {
